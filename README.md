@@ -7,5 +7,3 @@ This is a readme.md file. You can--and should--place important introductory info
 This is a test for a subheader section.
 
 # This is a test
-
-this text and the header text should only appear on this branch.
